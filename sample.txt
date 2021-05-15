@@ -1,3 +1,7 @@
 Hi Bhargav!
 
+<<<<<<< HEAD
 Hi mani
+=======
+Hi mani
+>>>>>>> da406b42160c2e9ff0a00fd9e8a548838cb78938
