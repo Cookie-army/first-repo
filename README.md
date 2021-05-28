@@ -1,3 +1,2 @@
-# Example repo
+#Join Cookie Army! 
 
-Join Cookie Army!
